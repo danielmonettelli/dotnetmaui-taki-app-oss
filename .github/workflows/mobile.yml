@@ -47,7 +47,7 @@ jobs:
           dotnet build ./Taki -f net7.0-android
 
   Build_iOS:
-    runs-on: macos-latest
+    runs-on: macos-13
 
     steps:
       - uses: actions/checkout@v3
@@ -75,7 +75,7 @@ jobs:
           dotnet build ./Taki -f net7.0-ios
           
   Build_MacCatalyst:
-    runs-on: macos-latest
+    runs-on: macos-13
 
     steps:
       - uses: actions/checkout@v3
