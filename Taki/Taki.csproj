@@ -15,7 +15,7 @@
 		<ApplicationTitle>Taki</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.taki</ApplicationId>
+		<ApplicationId>com.danielmonettelli.taki</ApplicationId>
 		<ApplicationIdGuid>45f83bd0-b13c-40e0-b8ea-16e77974d27c</ApplicationIdGuid>
 
 		<!-- Versions -->
